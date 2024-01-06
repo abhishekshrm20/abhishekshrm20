@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as **Freelancer**
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Golan**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
